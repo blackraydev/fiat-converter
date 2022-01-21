@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fiat-converter/static/css/main.080440dc.css",
+    "main.js": "/fiat-converter/static/js/main.1997749c.js",
+    "index.html": "/fiat-converter/index.html",
+    "main.080440dc.css.map": "/fiat-converter/static/css/main.080440dc.css.map",
+    "main.1997749c.js.map": "/fiat-converter/static/js/main.1997749c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.080440dc.css",
+    "static/js/main.1997749c.js"
+  ]
+}
